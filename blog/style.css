@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #f5e8e8;
+  background-color: #4e3f3f;
+  border: #4e3f3f;}
+  
+  .content-box {
+  border: 3px solid #fff;   
+  border-radius: 10px;      
+  padding: 20px;            
+  margin: 20px auto;         
+  width: 80%;               
+  background-color: #2d1c1c;
+  color: #fff;
+}
+button>a{
+  color: #2d1c1c; text-align: center; text-decoration: none;
+}
+
+
+
+
+
